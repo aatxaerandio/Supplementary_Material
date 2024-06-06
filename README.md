@@ -5,7 +5,7 @@ This repository contains part of the **Supplementary Material** of the doctoral 
 Content in the repository:
 
 - **Supplementary Tables S2-S6**
-- **Figure 7** in high-resolution.
+- **Figure 7, Figure 19 and Figure 20** in high-resolution.
 
 
 Download the files to see the contents.
